@@ -3,8 +3,4 @@
 [production.deploy.parameters]
 stack_name = "todolist-production"
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-fnxysdhusbno"
-s3_prefix = "todo-list-aws"
 region = "us-east-1"
-capabilities = "CAPABILITY_IAM"
-parameter_overrides = "Stage=\"production\""
-image_repositories = []
