@@ -1,0 +1,9 @@
+
+[staging]
+[staging.deploy]
+[staging.deploy.parameters]
+stack_name = "todolist-staging"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-fnxysdhusbno"
+region = "us-east-1"
+
+
