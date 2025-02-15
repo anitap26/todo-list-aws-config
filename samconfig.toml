@@ -1,4 +1,4 @@
-
+version = 0.1
 [staging]
 [staging.deploy]
 [staging.deploy.parameters]
